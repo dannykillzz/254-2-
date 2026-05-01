@@ -1,6 +1,8 @@
-# 254-2-
+
 
 Overview
+
+
 This project combines computer vision and environmental sensing to create a smart, adaptive vision system. It performs real‑time human detection using a pre‑trained YOLO model and automatically adjusts screen or camera brightness based on ambient light levels. The goal is to improve visibility, reduce eye strain, and create a more responsive system that adapts to its surroundings.
 
 Features
