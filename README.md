@@ -51,15 +51,16 @@ We implemented the human‑detection pipeline using a pre‑trained YOLO model a
 Weekly Progress Meetings
 Throughout the project, the team held weekly progress meetings every Wednesday at the Milner Library. These meetings helped us stay aligned, review completed tasks, identify challenges, and plan the next steps
 
-Contributors
+CREATORS / CONTRIBUTORS 
+MARCUS NGUYEN
+NOAH ADAMS
+DANIEL EDET
+KARIQ MEYERS
 
-MARCUS NGUYEN:
-
-NOAH ADAMS:
-
-DANIEL EDET:
-
-KARIQ MEYERS:
+COURSE INFORMATION:
+IT254
+ILLINOIS STATE UNIVERSITY
+MENNAL CHAUDRI 
 
 
 
